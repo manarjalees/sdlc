@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #023616;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.logo-container {
+    text-align: center;
+}
+
+.gem-text {
+    font-size: 80px;
+    font-weight: bold;
+    color: #3baa35; /* Green color for the GEM text */
+}
+
+.g {
+    display: inline-block;
+    border: 4px solid #3baa35;
+    padding: 0 10px;
+}
+
+.e {
+    padding-left: 10px;
+}
+
+.m {
+    padding-left: 10px;
+}
+
+.tagline {
+    font-size: 24px;
+    color: #d1e4d5;
+    margin-top: 10px;
+}
