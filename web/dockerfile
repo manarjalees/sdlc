@@ -1,0 +1,2 @@
+FROM manarjalees/apacheweb
+ADD . /var/www/html
